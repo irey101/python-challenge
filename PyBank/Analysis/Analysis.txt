@@ -1,0 +1,7 @@
+Financial Analysis
+---------------------------------------------------------
+Total Months within dataset: 86
+Total profit throughout the dataset: $22564198
+Average profit change throughout the dataset: $-224669
+Greatest increase in profit within the dataset: Feb-14 $1862002
+Greatest decrease in profits within the dataset: Feb-14 $-1825558
